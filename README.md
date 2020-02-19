@@ -1,0 +1,2 @@
+# 3D-Structures-using-Graphs
+-Implemented Data Structure: Graph by storing vertices and edges to form linking triangles in JAVA. -Constructed 3D structures by joining triangles together through the vertex , edge, face, etc. -Answered queries such as insert, neighbors, topological distance between two triangles, centroid, etc. -Implementation was based on good time efficiency of the data structures and the queries answered.
